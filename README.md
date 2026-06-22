@@ -192,24 +192,3 @@ aws s3 rm s3://pravesh-terra-state-bucket/eks/terraform.tfstate
 # Then empty and delete the bucket via S3 console
 ```
 
----
-
-## ✨ Author
-
-**Pravesh Sudha**
-AWS Community Builder – Containers | DevOps & Cloud Blogger
-
-* 💻 [Website](https://praveshsudha.com)
-* 🧠 [Blog](https://blog.praveshsudha.com)
-* 🐦 [Twitter](https://x.com/praveshstwt)
-* 💼 [LinkedIn](https://www.linkedin.com/in/pravesh-sudha/)
-
----
-
-## ⭐️ Support & Contribution
-
-If you find this project helpful, please consider giving it a ⭐ on GitHub!
-
-Pull requests and suggestions are welcome 🤝
-
----
